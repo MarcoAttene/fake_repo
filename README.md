@@ -1,1 +1,2 @@
-# fake_repo
+# Fake repository
+This repository is intentionally empty.
